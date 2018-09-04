@@ -1,0 +1,19 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "an document App",
+  "main": "myApp.js",
+  "engines": {
+    "node": "8.11.1",
+	"npm": "6.0.0"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "ip": "^1.1.5",
+    "https":"*"
+  },
+  "author": "Anton Pretorius",
+  "license": "ISC"
+}
